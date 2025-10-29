@@ -1,0 +1,30 @@
+{
+  "name": "saaf",
+  "version": "0.1.0",
+  "description": "Self-Auditing Async Flow utility: Draft → Critique → Revise with tamper-evident audit chain.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test",
+    "start": "node server.js",
+    "demo": "node demo.js"
+  },
+  "keywords": [
+    "audit",
+    "async",
+    "promise",
+    "governance",
+    "hash-chain"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MajidAliyev/SAAF-The-Self-Auditing-Async-Flow.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
+
+
